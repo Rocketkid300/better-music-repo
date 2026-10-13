@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: rocketkid300
+Label: Better Music Repo
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: Better Music - iOS 26 look for Apple Music on iOS 15 (Dopamine, rootless)
+Date: Tue, 13 Oct 2026 12:36:36 UTC
+MD5Sum:
+ 1b3cf64eb060eaef86917de1180851e2              870 Packages
+ 541e796e4c706a2a6b2983809ca66879              483 Packages.gz
+SHA256:
+ 505b34d31e07760f544b9021d4736cb6395ae45c331bfd9cae058d2b094013d0              870 Packages
+ 91db071ba27ef8964d6e220fbd98513ee1e617828abafe307d13373eae9fadb9              483 Packages.gz
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEyBAEBCgAdFiEE99BrHtH12k5mbZ8+UniX/RgSw1gFAmrOJdQACgkQUniX/RgS
+w1jbMgf3VaQzyZcrRB6soQcaz+hAVnOPlj6Rh08UE5Qg3o18IL5gYVeBgwzjDidQ
+kwnPrynsWBNm/cn1DfKgaoyFaqZ5DghIbGWP69HnipHlN6GcNYKeYg6rz/ZZjcpJ
+l7CiHLFeiltChqg/p/4+3raVpgy7STHQEZew02zmE6TU1RWEVd47QBpBzsWnMyUM
+FUBEmQq0u9OmWfMIRqRhZ2frpNH10SKpoEPS+bl7pI8Y/4+n/3QyXjmO8ZfFIT3c
+Lt0asRYc24yuh0EdwHyeHARFBFXQmHGDaQMNISDMZM/Gv+jGZnYgh/DhZfDsObVe
+is2eZhonWgc3sgzSAILYVxNMer1v
+=2fMI
+-----END PGP SIGNATURE-----

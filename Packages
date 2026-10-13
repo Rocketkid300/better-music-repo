@@ -1,0 +1,18 @@
+Package: com.rocketkid300.bettermusic
+Name: Better Music
+Description: iOS 26 look for Apple Music on iOS 15 - album pages, lyrics, lock screen player
+Maintainer: rocketkid300 <rocketkid300@users.noreply.github.com>
+Author: rocketkid300 <rocketkid300@users.noreply.github.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), firmware (<< 16.0)
+Homepage: https://github.com/Rocketkid300/better-music
+Depiction: https://rocketkid300.github.io/better-music-repo/depictions/bettermusic.html
+Icon: https://rocketkid300.github.io/better-music-repo/icons/bettermusic.png
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 792
+Filename: debs/com.rocketkid300.bettermusic_1.0.0_iphoneos-arm64.deb
+Size: 186030
+MD5sum: 0abedfde2bdb33992e333dc8d02cd232
+SHA256: cb69d6710da3af3a72d9d190473ef403b37cc3e1e8cbe94fb86c97b582fa672c
+

@@ -8,22 +8,22 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Better Music - iOS 26 look for Apple Music on iOS 15 (Dopamine, rootless)
-Date: Tue, 13 Oct 2026 12:36:36 UTC
+Date: Tue, 13 Oct 2026 12:59:51 UTC
 MD5Sum:
- 1b3cf64eb060eaef86917de1180851e2              870 Packages
- 541e796e4c706a2a6b2983809ca66879              483 Packages.gz
+ 2b37422e96a77222a151236d2b81b215              882 Packages
+ 0e6e4b96682915353f13a5fa5479b206              487 Packages.gz
 SHA256:
- 505b34d31e07760f544b9021d4736cb6395ae45c331bfd9cae058d2b094013d0              870 Packages
- 91db071ba27ef8964d6e220fbd98513ee1e617828abafe307d13373eae9fadb9              483 Packages.gz
+ 444a8e7d746b4f41ab5761bbf908cc155e0c127b7ac1a565d69c0e7b5c5a45e6              882 Packages
+ 2bf50b60eed01ef7a5ea2635fed94cd637b66e0853c7518148c7d99c75c5fd15              487 Packages.gz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQEyBAEBCgAdFiEE99BrHtH12k5mbZ8+UniX/RgSw1gFAmrOJdQACgkQUniX/RgS
-w1jbMgf3VaQzyZcrRB6soQcaz+hAVnOPlj6Rh08UE5Qg3o18IL5gYVeBgwzjDidQ
-kwnPrynsWBNm/cn1DfKgaoyFaqZ5DghIbGWP69HnipHlN6GcNYKeYg6rz/ZZjcpJ
-l7CiHLFeiltChqg/p/4+3raVpgy7STHQEZew02zmE6TU1RWEVd47QBpBzsWnMyUM
-FUBEmQq0u9OmWfMIRqRhZ2frpNH10SKpoEPS+bl7pI8Y/4+n/3QyXjmO8ZfFIT3c
-Lt0asRYc24yuh0EdwHyeHARFBFXQmHGDaQMNISDMZM/Gv+jGZnYgh/DhZfDsObVe
-is2eZhonWgc3sgzSAILYVxNMer1v
-=2fMI
+iQEzBAEBCgAdFiEE99BrHtH12k5mbZ8+UniX/RgSw1gFAmrOK0cACgkQUniX/RgS
+w1gCWQgAhSOvK5gvACBqARFQ+999BB0yQ1rBgEGSByWoAZSPS0kIh+nJAWuHkodi
+6IaovxiJ5qFlwRDUaCI70YJnCXlZshBHvx+NC1uvvFXEGDOvVixVe4Yje+JINLZm
+L4YRakZaWxqex2MgFUfs06PUc70XlcuXMrJV9BaJFPoZJTwKJwIwOL9/R4FIiRPu
+JyItttIMLgJCEfCVLDO5cbPYbTO65ClZZuC6IwLhVqwoT0mPQIKnJezWVNOK3WWt
+Pt8RE59sZu7h50pX4Dpn7Lj/YF7MoLg932yG7YOYHgwCz25F3WsDELzjIFP4rdfI
+zugT7AD42ugU2psI2V7zUz1nHWoiTA==
+=ZJ2P
 -----END PGP SIGNATURE-----

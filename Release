@@ -5,10 +5,10 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Better Music - iOS 26 look for Apple Music on iOS 15 (Dopamine, rootless)
-Date: Tue, 13 Oct 2026 12:36:36 UTC
+Date: Tue, 13 Oct 2026 12:59:51 UTC
 MD5Sum:
- 1b3cf64eb060eaef86917de1180851e2              870 Packages
- 541e796e4c706a2a6b2983809ca66879              483 Packages.gz
+ 2b37422e96a77222a151236d2b81b215              882 Packages
+ 0e6e4b96682915353f13a5fa5479b206              487 Packages.gz
 SHA256:
- 505b34d31e07760f544b9021d4736cb6395ae45c331bfd9cae058d2b094013d0              870 Packages
- 91db071ba27ef8964d6e220fbd98513ee1e617828abafe307d13373eae9fadb9              483 Packages.gz
+ 444a8e7d746b4f41ab5761bbf908cc155e0c127b7ac1a565d69c0e7b5c5a45e6              882 Packages
+ 2bf50b60eed01ef7a5ea2635fed94cd637b66e0853c7518148c7d99c75c5fd15              487 Packages.gz

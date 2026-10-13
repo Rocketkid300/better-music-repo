@@ -9,10 +9,10 @@ Homepage: https://github.com/Rocketkid300/better-music
 Depiction: https://rocketkid300.github.io/better-music-repo/depictions/bettermusic.html
 Icon: https://rocketkid300.github.io/better-music-repo/icons/bettermusic.png
 Architecture: iphoneos-arm64
-Version: 1.0.0
+Version: 1.0.0~beta1
 Installed-Size: 792
-Filename: debs/com.rocketkid300.bettermusic_1.0.0_iphoneos-arm64.deb
-Size: 186030
-MD5sum: 0abedfde2bdb33992e333dc8d02cd232
-SHA256: cb69d6710da3af3a72d9d190473ef403b37cc3e1e8cbe94fb86c97b582fa672c
+Filename: debs/com.rocketkid300.bettermusic_1.0.0~beta1_iphoneos-arm64.deb
+Size: 186038
+MD5sum: d90061b4a40718ae4b1398fa51098d37
+SHA256: 40c55052fc0ee93b926a2ba589582c7c0f8c8bdfac6060ee1ba7ea80d64ef760
 
